@@ -1,0 +1,17 @@
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.csproj.AssemblyReference.cache
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.GeneratedMSBuildEditorConfig.editorconfig
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.AssemblyInfoInputs.cache
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.AssemblyInfo.cs
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.csproj.CoreCompileInputs.cache
+/home/maduh/Área de Trabalho/propiedadesNetC/bin/Debug/net6.0/propiedadesNetC
+/home/maduh/Área de Trabalho/propiedadesNetC/bin/Debug/net6.0/propiedadesNetC.deps.json
+/home/maduh/Área de Trabalho/propiedadesNetC/bin/Debug/net6.0/propiedadesNetC.runtimeconfig.json
+/home/maduh/Área de Trabalho/propiedadesNetC/bin/Debug/net6.0/propiedadesNetC.dll
+/home/maduh/Área de Trabalho/propiedadesNetC/bin/Debug/net6.0/propiedadesNetC.pdb
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.dll
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/refint/propiedadesNetC.dll
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.pdb
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.genruntimeconfig.cache
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/ref/propiedadesNetC.dll
+/home/maduh/Área de Trabalho/propiedadesNetC/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/maduh/Área de Trabalho/propiedadesNetC/obj/Debug/net6.0/propiedadesNetC.csproj.CopyComplete

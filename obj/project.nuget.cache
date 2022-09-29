@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKVzlLTc+Db7nifj0T4ZwioLFa9nvapBmBJHgZsZo3gIudKfsJcOiU9KXI5rc1036AlUn8tLkNRPiKR2kB0ORQ==",
+  "success": true,
+  "projectFilePath": "/home/maduh/Área de Trabalho/propiedadesNetC/propiedadesNetC.csproj",
+  "expectedPackageFiles": [
+    "/home/maduh/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

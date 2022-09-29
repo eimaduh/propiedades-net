@@ -1,0 +1,23 @@
+[
+    {
+      "Id": 1,
+      "Produto": "Material escritório",
+      "Preco": 32.00,
+      "DataVenda": "2022-09-27T11:36:26.8466722-03:00",
+      "Desconto": null
+    },
+    {
+      "Id": 2,
+      "Produto": "Escrivaninha",
+      "Preco": 400.00,
+      "DataVenda": "2022-09-27T11:36:26.8466722-03:00",
+      "Desconto": 10
+    },
+    {
+      "Id": 3,
+      "Produto": "Cadeira Gamer",
+      "Preco": 700.00,
+      "DataVenda": "2022-09-27T11:36:26.8466722-03:00",
+      "Desconto": 17
+    }
+  ]
